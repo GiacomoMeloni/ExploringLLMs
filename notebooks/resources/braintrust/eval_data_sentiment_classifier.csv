@@ -1,0 +1,6 @@
+input;expected
+"The product exceeded my expectations. Even Gandalf would love it!";"POSITIVE"
+"How's the weather?";NA
+"Terrible experience with this product. I would not recommend it.";"NEGATIVE"
+"The service was not professional, how could you offer this experience to your clients?";"NEGATIVE"
+"Great customer service, very helpful and responsive.";"POSITIVE"
